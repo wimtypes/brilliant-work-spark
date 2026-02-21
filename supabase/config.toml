@@ -1,0 +1,4 @@
+project_id = "wqextebmlpxehtszagsh"
+
+[functions.kanban-chat]
+verify_jwt = false
